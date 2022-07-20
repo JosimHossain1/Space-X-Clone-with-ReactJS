@@ -11,7 +11,7 @@ const HomePageSection =[
 
     {image : `${HomeIamge3}`, title : "STARSHIP UPDATE", btnText : "LEARN MORE"},
 
-    {image : `${HomeIamge4}`, title : "STARSHIP TO LAND NASA ASTRONAUTS ON THE MOON", btnText : "LEARN MORE"},
+    {image : `${HomeIamge4}`, title : `STARSHIP TO LAND NASA ASTRONAUTS ON THE MOON`, btnText : "LEARN MORE"},
 ];
 
 export default HomePageSection;

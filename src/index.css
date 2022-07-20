@@ -9,3 +9,7 @@
     box-sizing: border-box;
     
 }
+.active{
+    border-bottom: 2px solid #fff;
+}
+
